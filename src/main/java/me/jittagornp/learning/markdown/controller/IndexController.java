@@ -1,7 +1,7 @@
 /*
  * Copyright 2017-Current jittagornp.me
  */
-package me.jittagornp.course.controller;
+package me.jittagornp.learning.markdown.controller;
 
 import com.vladsch.flexmark.html.HtmlRenderer;
 import com.vladsch.flexmark.parser.Parser;

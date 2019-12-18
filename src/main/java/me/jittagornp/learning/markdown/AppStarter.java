@@ -1,7 +1,7 @@
 /*
  * Copyright 2017-Current jittagornp.me
  */
-package me.jittagornp.course;
+package me.jittagornp.learning.markdown;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
